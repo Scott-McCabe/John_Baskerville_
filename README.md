@@ -1,7 +1,7 @@
 John Baskerville
 ================
 
-- [Baskerville 1](https://scott-mccabe.github.io/John_Baskerville_/baskerville1.html)
+- [Baskerville 1](https://github.com/Scott-McCabe/John_Baskerville_/blob/master/baskerville1.html)
 - [Baskerville 2](https://scott-mccabe.github.io/John_Baskerville_/baskerville2.html)
 - [Baskerville 3](https://scott-mccabe.github.io/John_Baskerville_/baskerville3.html)
 - [Baskerville 4](https://scott-mccabe.github.io/John_Baskerville_/baskerville4.html)
