@@ -19,3 +19,7 @@ History of Type
 - [History of Type 5](https://scott-mccabe.github.io/john_baskerville/history5.html)
 - [History of Type 6](https://scott-mccabe.github.io/john_baskerville/history6.html)
 
+Extras
+======
+
+- **[CSS Exercise](https://eleventhirty.github.io/john_baskerville/exercss.html)**   
