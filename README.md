@@ -22,4 +22,4 @@ History of Type
 Extras
 ======
 
-- **[CSS Exercise](https://eleventhirty.github.io/John_Baskerville_/exercss.html)**   
+- **[CSS Exercise](https://eleventhirty.github.io/John_Baskerville_/CSSexercss.html)**   
